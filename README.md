@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning Operating System, Computer Architecture, Scalable Data System
-### 📫 How to reach me: wec025@ucsd.edu / [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weiyi-chen-ucsd/)
+### 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wec025@ucsd.edu)
+/ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weiyi-chen-ucsd/)
 
 ### 😄 Pronouns: She/Her
+
+
 - ⚡ Fun fact: ...
 
 <!--
