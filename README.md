@@ -4,8 +4,7 @@
 ### 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wec025@ucsd.edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weiyi-chen-ucsd/)
 
 ### 😄 Pronouns: She/Her
-### 🔭 My proudest project: [surfstore-cloud-service](https://github.com/vivianchen04/surfstore-cloud-service)
-
+### 🔭 My proudest project: [surfstore-cloud-service](https://github.com/vivianchen04/surfstore-cloud-service), [nachos os](https://github.com/ucsd-cse120-sp23/Nachos-OS)
 
 
 <!--
